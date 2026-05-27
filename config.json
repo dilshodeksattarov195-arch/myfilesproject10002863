@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingrncrypt",
+        "uuid": 16522373,
+        "checksum": "xkqv65"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
